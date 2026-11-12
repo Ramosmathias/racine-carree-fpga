@@ -1,0 +1,6 @@
+/build/
+/work/
+/transcript
+/modelsim.ini
+*.wlf
+__pycache__/
